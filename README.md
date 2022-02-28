@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Haafizz - @haafizzismail
-- 👀 I’m interested in building websites.
+- 👀 I’m interested in building websites and hopefully soon, contributing to open-source projects.
 - 🌱 I’m currently going through The Odin Project.
 - 💞️ I’m looking to career switch from non-tech into front-end web development.
 
